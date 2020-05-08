@@ -1,0 +1,44 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+  
+header {
+  background-image: url('../img/IMG_yo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+}
+ 
+.icono {
+  width: 2rem;
+}
+  
+.icono svg {
+  fill: #ffffff;
+}
+
+.bg-info {
+  color: #ffffff;
+}
+  
+.bg-info a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+footer {
+  padding: 1rem;
+}
+
+@media (min-width: 576px) {
+
+}
+
+@media (min-width: 768px){
+
+}
+
+@media (min-width: 992px) {
+
+}
